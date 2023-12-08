@@ -1,0 +1,27 @@
+.rounded-circle{
+    height: 8rem;
+}
+.whats{
+    height: 10rem;
+    width: 10rem;
+}
+.mensa{
+    height: 10rem;
+    width: 10rem;
+}
+.insta{
+    height: 10rem;
+    width: 10rem;
+}
+.cordacabe{
+    background-color: #2C2058;
+    
+}
+.cabeca{
+    border: 2px solid #FFFF;
+}
+.card-img{
+    height: 30rem;
+    width: 50rem;
+}
+
